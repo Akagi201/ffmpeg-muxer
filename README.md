@@ -18,3 +18,6 @@ Mux a video bitstream and a audio bitstream  together into one file based on FFm
 
 ## Usage
 * `ffmpeg_muxer`
+
+## Refs
+* <https://blog.csdn.net/leixiaohua1020/article/details/39802913>
